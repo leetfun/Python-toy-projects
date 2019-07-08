@@ -1,3 +1,4 @@
+''' simple rock paper scissor game with simple GUI and score keeping'''
 
 import random
 import PySimpleGUI as sg
