@@ -1,0 +1,9 @@
+''' program that takes a comma seperated series of values and generates
+a list and tupple of those values'''
+
+n = input()
+listy = n.split(', ')
+tups = tuple(listy)
+
+print(listy)
+print(tups)
